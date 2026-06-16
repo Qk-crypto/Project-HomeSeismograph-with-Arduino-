@@ -78,7 +78,7 @@ For the project presentation, we also built a small moving house model to demons
 The model helped explain the working principle visually: when the house shakes, the MPU6050 sensor detects acceleration changes, the OLED displays the vibration signal, and the buzzer/LED alert system is activated if the vibration level exceeds the threshold.
 
 <p align="center">
-  <img src="images/moving-house-model.gi" alt="Moving house model demo" width="420">
+  <img src="images/moving-house-model.gif" alt="Moving house model demo" width="420">
 </p>
 
 <p align="center">
