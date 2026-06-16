@@ -55,7 +55,10 @@ The first prototype used an **Arduino Nano**, MPU6050, OLED display, buzzer, LED
 
 The second prototype was redesigned using an **Arduino Uno** with an **Arduino Sensor Shield**. The shield made the wiring cleaner and more reliable for exhibition and competition use. The main components remained the same: OLED display, MPU6050, buzzer, and LED.
 
-<img src="images/prototype-2/prototype-2-arduino-uno-shield.png" alt="prototype-2-arduino-uno-shield.png" width="400">
+<p align="center">
+   <img src="images/prototype-2/prototype-2-arduino-uno-shield.png" alt="prototype-2-arduino-uno-shield.png" width="400">
+   <img src="images/qqq.jpg" alt="prototype-2-arduino" width="400">
+</p>
 
 ---
 
