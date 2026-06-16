@@ -46,15 +46,16 @@ The displayed value is not an official earthquake magnitude scale. It is a **rel
 
 The first prototype used an **Arduino Nano**, MPU6050, OLED display, buzzer, LED, and a resistor. This version was built on a perfboard and used for early testing of the sensor logic and display output.
 
-![Prototype 1 wiring diagram](images/prototype-1/circuit-diagram-prototype-1.png)
-
-![Prototype 1 perfboard build](images/prototype-1/prototype-1-perfboard.png)
+<p align="center">
+   <img src="images/prototype-1/circuit-diagram-prototype-1.png" alt="Prototype 1 wiring diagram" width="400">
+   <img src="images/prototype-1/prototype-1-perfboard.png" alt="prototype-1-perfboard.png" width="350">
+</p>
 
 ### Prototype 2 — Arduino Uno + Shield version
 
 The second prototype was redesigned using an **Arduino Uno** with an **Arduino Sensor Shield**. The shield made the wiring cleaner and more reliable for exhibition and competition use. The main components remained the same: OLED display, MPU6050, buzzer, and LED.
 
-![Prototype 2 Arduino Uno Shield build](images/prototype-2/prototype-2-arduino-uno-shield.png)
+<img src="images/prototype-2/prototype-2-arduino-uno-shield.png" alt="prototype-2-arduino-uno-shield.png" width="400">
 
 ---
 
@@ -62,7 +63,9 @@ The second prototype was redesigned using an **Arduino Uno** with an **Arduino S
 
 The device was tested near a railway area from approximately **2 meters away** to observe how passing trains affect vibration readings. The test helped demonstrate that the device can detect real environmental vibration sources, not only manually generated shaking.
 
-![Railway vibration test](images/testing/railway-vibration-test.png)
+<p align="center">
+  <img src="images/testing/railway-vibration-test.png" alt="Railway vibration test" width="360">
+</p>
 
 > Safety note: the test was performed from a distance and should not be repeated near active railway tracks without proper adult supervision and safety clearance.
 
